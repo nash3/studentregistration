@@ -1,0 +1,16 @@
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/common/Constants.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/student/StudentController.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/config/PersistenceConfiguration.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/mail/EmailService.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/student/StudentService.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/student/Student.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/mail/EmailServiceImpl.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/student/StudentServiceImpl.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/StudentRegistrationApplication.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/config/RabbitMqConfiguration.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/common/BaseEntity.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/config/RestConfiguration.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/common/AuditedEntity.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/mail/Email.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/utils/exception/DuplicateUserException.java
+/home/vimbainashe/workspace/student-registration/src/main/java/com/example/integrations/studentregistration/student/StudentRepository.java

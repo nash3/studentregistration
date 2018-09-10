@@ -1,0 +1,17 @@
+com/example/integrations/studentregistration/common/Constants$QueueName.class
+com/example/integrations/studentregistration/config/PersistenceConfiguration.class
+com/example/integrations/studentregistration/common/BaseEntity.class
+com/example/integrations/studentregistration/mail/Email.class
+com/example/integrations/studentregistration/student/StudentController.class
+com/example/integrations/studentregistration/student/StudentRepository.class
+com/example/integrations/studentregistration/common/Constants.class
+com/example/integrations/studentregistration/config/RabbitMqConfiguration.class
+com/example/integrations/studentregistration/config/RestConfiguration.class
+com/example/integrations/studentregistration/student/StudentServiceImpl.class
+com/example/integrations/studentregistration/common/AuditedEntity.class
+com/example/integrations/studentregistration/student/Student.class
+com/example/integrations/studentregistration/mail/EmailServiceImpl.class
+com/example/integrations/studentregistration/utils/exception/DuplicateUserException.class
+com/example/integrations/studentregistration/StudentRegistrationApplication.class
+com/example/integrations/studentregistration/mail/EmailService.class
+com/example/integrations/studentregistration/student/StudentService.class
